@@ -2,8 +2,8 @@
 - 👀 I’m interested in building my resume and have show my experience in coding.
 - 🌱 I’m currently learning C++, and C#
 - 💞️ I’m looking to collaborate on programs in C, C++, C# and Python
-- 📫 How to reach me Email Ian@frogsfolly.com
-- 😄 Pronouns: He/They
+- 📫 How to reach me Email Ian@IanHazleton.com
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have codded in German
 
 <!---
